@@ -30,12 +30,13 @@
 <img src="https://img.shields.io/badge/JSP-46a2f1?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-F7DF1C?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-E34F26?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nodejs-E34F26?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nodejs-43853d?style=flat-square&logo=Oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pug-F05032?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-46a2f1?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-46a2f1?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-222222?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/MsOffice-F05032?style=flat-square&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/AdobeSeries-46a2f1?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-46a2f1?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/MsOffice-43853d?style=flat-square&logo=Oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/AdobeSeries-F05032?style=flat-square&logo=spring&logoColor=white"/>
+
 
 
